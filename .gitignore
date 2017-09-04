@@ -1,0 +1,14 @@
+_gsdata_/
+*/_gsdata_/
+*.user
+*.user.*
+*.autosave
+.DS_Store
+.idea
+build-*
+*/build-*
+*.pro.user*
+cmake-build-debug
+__pycache__
+production.*
+development.*
